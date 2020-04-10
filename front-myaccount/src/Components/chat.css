@@ -1,0 +1,97 @@
+.derecha {
+  background-color: rgb(228, 228, 228);
+  height: 780px;
+  position: relative;
+  float: right;
+}
+
+.der {
+  float: right;
+}
+.izquierda {
+  background-color: rgb(214, 211, 211);
+  height: 780px;
+  float: left;
+  position: relative;
+}
+
+.ventana {
+  background-color: white;
+  width: 100px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  border: 1px rgb(148, 148, 148);
+}
+
+.ventanainput {
+  margin-left: auto;
+  margin-right: auto;
+  height: 70px;
+}
+
+.ventanachat {
+  width: 50px;
+  height: 480px;
+  overflow-y: auto;
+  width: calc(100% + 20px);
+  float: right;
+  justify-content: flex-start;
+  margin-left: 600px;
+}
+.texto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.txt {
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  width: 70px;
+  margin-top: -0.5%;
+}
+
+.borde {
+  border: 0.3px solid gray;
+  opacity: 50%;
+}
+
+.usuario {
+  margin-top: 80px;
+}
+
+.t {
+  height: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0.8em;
+}
+
+.mens {
+  background-color: rgb(214, 214, 214);
+  border-radius: 10px 10px 0px;
+  padding: 1%;
+  margin-top: 7px;
+  float: right;
+}
+
+.fecha {
+  font-size: 0.5em;
+  text-align: right;
+  justify-content: right;
+}
+
+.mp {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+}
+
+.breadcrumb {
+  background-color: rgb(214, 211, 211) !important ;
+}
